@@ -18,7 +18,7 @@ Ekeoma Eneogwe
 ## Project Phases
 
 - [x] **Phase 1 — Foundation:** PDI provisioning, IRM plugin installation, RBAC setup, CMDB/CI creation for lab assets
-- [ ] **Phase 2 — Framework Mapping:** Authority Documents → Citations → Control Objectives, mapped to a chosen standard (ISO 27001 / NIST CSF)
+- [X] **Phase 2 — Framework Mapping:** Authority Documents → Citations → Control Objectives, mapped to a chosen standard (ISO 27001 / NIST CSF)
 - [ ] **Phase 3 — Risk Assessment:** Risk Register build-out, likelihood × impact scoring, risk-to-control linking
 - [ ] **Phase 4 — Treatment & Monitoring:** Remediation tasks for high-scoring risks, attestation cycle, compliance dashboard/reporting
 - [ ] **Phase 5 — Documentation:** Final written IT Risk Assessment Report (methodology, findings, remediation plan)
